@@ -1,0 +1,45 @@
+.col-6 {
+    flex: 0 0 auto;
+    width: 50%;
+    position: relative;
+}
+section{
+    background-image: url("../img/ba1.jpg");
+    background-color: rgb(45, 45, 45);
+    background-blend-mode: soft-light;
+    background-size:cover ;
+    position: relative;
+}
+article{
+    display: flex;
+    justify-content: flex-end;
+    height: 800px;
+    align-items: center;
+    text-align: right;
+    margin-right: 30px;
+}
+#oradores h5{
+    margin-top: 10px;
+}
+#oradores p{
+    text-align: justify;
+}
+
+
+.cent-etiquetas{
+    text-align: center;
+    margin: 30px;
+}
+
+#playa .card-body{
+    margin: 30px;
+    text-align: justify;
+}
+form{
+    margin-bottom: 50px;
+}
+footer ul {
+    background-color: #454647;
+    justify-content: space-between;
+    width:100%;  
+  }
