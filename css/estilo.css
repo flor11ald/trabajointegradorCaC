@@ -3,7 +3,7 @@
     width: 50%;
     position: relative;
 }
-section{
+#imagen{
     background-image: url("../img/ba1.jpg");
     background-color: rgb(45, 45, 45);
     background-blend-mode: soft-light;
@@ -16,7 +16,7 @@ article{
     height: 800px;
     align-items: center;
     text-align: right;
-    margin-right: 30px;
+    margin-right: 50px;
 }
 #oradores h5{
     margin-top: 10px;
@@ -43,3 +43,9 @@ footer ul {
     justify-content: space-between;
     width:100%;  
   }
+
+#textoprecio{
+    text-transform: uppercase;
+    text-align: center;
+
+}
